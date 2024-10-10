@@ -1,0 +1,5 @@
+Enter the world specification file: 
+java.lang.IllegalArgumentException: Invalid arguments in WorldImpl!
+	at theWorld.WorldImpl.<init>(WorldImpl.java:36)
+	at theWorld.WorldImpl.reader(WorldImpl.java:102)
+	at theWorld.WorldDriver.main(WorldDriver.java:14)

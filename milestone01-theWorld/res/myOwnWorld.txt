@@ -1,0 +1,45 @@
+36 30 Mythic Castle
+50 Grand Sorcerer
+21
+22 22 23 26 Alchemy Lab
+16 21 21 28 Royal Chambers
+28  0 35  5 Dragon's Lair
+12 11 21 20 Crystal Garden
+22 13 25 21 Hall of Mirrors
+26 13 27 18 War Room
+28 26 35 29 Arcane Library
+30 20 35 25 Courtyard
+16  3 21 10 Moonlit Terrace
+ 0  3  5  8 Observatory
+ 4 23  9 28 Grand Dining Hall
+ 2  9  7 14 King's Study
+ 2 15  7 22 Vault of Secrets
+ 0 23  3 28 Ancient Armory
+10  5 15 10 Enchanted Forest
+28 12 35 19 Throne Room
+ 6  3  9  8 Hidden Chamber
+ 8 11 11 20 Dungeon
+10 21 15 26 Sunken Catacombs
+22  5 23 12 Sorcerer's Workshop
+30  6 35 11 Shadowy Cavern
+20
+8 3 Magic Wand
+4 2 Ancient Grimoire
+12 2 Cursed Amulet
+8 3 Fiery Sword
+0 3 Potion of Invisibility
+15 3 Staff of Power
+2 4 Orb of Truth
+16 2 Enchanted Shield
+1 2 Dragon Claw
+19 2 Phantom Cloak
+6 2 Crystal Ball
+2 2 Silver Dagger
+7 3 Phoenix Feather
+15 4 Shifting Sands
+18 3 Golden Chalice
+13 2 Elven Bow
+18 2 Mystic Flute
+11 2 Time Turner
+19 2 Shadow Blade
+20 1 Million Bills

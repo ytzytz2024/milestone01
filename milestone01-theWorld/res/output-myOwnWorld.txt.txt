@@ -1,0 +1,7 @@
+Enter the world specification file: 
+The space's name is Alchemy Lab, the item is: Potion of Invisibility , and the spaces can be seen from this space is: Royal Chambers Hall of Mirrors 
+The information of FirstSpace's neighbours:
+The space's name is Royal Chambers, the item is: Dragon Claw , and the spaces can be seen from this space is: Alchemy Lab Crystal Garden Hall of Mirrors Sunken Catacombs 
+The space's name is Hall of Mirrors, the item is: Ancient Grimoire , and the spaces can be seen from this space is: Alchemy Lab Royal Chambers Crystal Garden War Room Sorcerer's Workshop 
+The character is in Space: 0
+The character is in Space: 1
